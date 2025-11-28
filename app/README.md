@@ -31,7 +31,7 @@ python -m venv .venv
 - **Activar entorno (PowerShell):**
 
 ```powershell
-& .venv\Scripts\Activate.ps1
+& env\Scripts\Activate.ps1
 ```
 
 - **Actualizar pip, setuptools y wheel:**
